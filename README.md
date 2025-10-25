@@ -101,4 +101,4 @@ This dashboard was created as part of my **data analytics portfolio** to showcas
 ---
 
 ## Screenshots/Demos
-So what the dashboard looks like : 
+So what the dashboard looks like : https://app.powerbi.com/view?r=eyJrIjoiZmU2YjE5MTUtZThmYS00MTAxLWE4M2ItNDFmYTk5MmIxMTUwIiwidCI6ImNkNTRlMDgyLTdjMWEtNGExNS1hZTIyLWJlMDdkOTcxZTgxMSJ9
