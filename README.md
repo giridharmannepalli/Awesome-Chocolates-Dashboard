@@ -1,7 +1,3 @@
-Perfect 👍 — here’s a **polished, portfolio-ready** version of your GitHub README description.
-It presents the dashboard as a professional data analytics project while highlighting your analytical and visualization skills.
-
----
 
 # 🍫 Awesome Chocolate Sales Dashboard
 
